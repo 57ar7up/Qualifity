@@ -1,0 +1,1 @@
+**Quality** is set of tools achieving automatic data integration by qualifying for categories.

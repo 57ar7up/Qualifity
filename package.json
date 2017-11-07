@@ -1,0 +1,19 @@
+{
+  "name": "qualifity",
+  "version": "0.0.0",
+  "description": "Quality is set of tools achieving automatic data integration by qualifying for categories.",
+  "main": "qualifity.js",
+  "repository" : {
+    "type" : "git"
+  , "url" : "https://github.com/57ar7up/Qualifity"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quality",
+    "quantity"
+  ],
+  "author": "57ar7up",
+  "license": "WTFPL"
+}
